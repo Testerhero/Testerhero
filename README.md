@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 Welcome!.. 
 </h1>
 </p>
-<img src="nodejs.jpg" alt="">
+<img src="https://user-images.githubusercontent.com/111311143/184865397-63209645-3d53-4bd2-922c-e6ddb8bef720.jpg">
